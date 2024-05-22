@@ -14,3 +14,6 @@ This is a sample Spring Web application built with Spring Boot and Spring Data. 
 - Spring Web
 - MySQL
 - Maven
+- HTML
+- CSS
+- JavaScript
